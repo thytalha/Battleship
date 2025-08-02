@@ -51,12 +51,14 @@ Talha's turn:
 Enter row (A-J): B  
 Enter column (1-10): 4  
 Result: It's a miss! :(
+<br>
 i.e., In case if there was no ship on these coordinates
 
 Pasha's turn:  
 Enter row (A-J): E  
 Enter column (1-10): 7  
 Result: It's a hit! :)
+<br>
 i.e., In case if there was any ship on these coordinates.
 
 ...and so on, until one player wins by destroying all five enemy ships.
